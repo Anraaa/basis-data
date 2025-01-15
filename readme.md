@@ -5,7 +5,7 @@
     ```
 
 2. 🛠️ **Build and start the containers with Docker Compose:**
-    ```sh
+    ```sh 
     docker compose up -d --build
     ```
 
@@ -23,3 +23,4 @@
 4. 🔌 **Change the port to `31238`.**
 5. 🔑 **Enter the password: `123`.**
 6. ✅ **Test the connection to ensure it is working.**
+7. 
